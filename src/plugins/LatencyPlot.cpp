@@ -15,6 +15,7 @@
 // C++
 #include <unordered_map>
 #include <iostream>
+#include <algorithm>
 
 // KernelShark
 #include "plugins/latency_plot.h"
